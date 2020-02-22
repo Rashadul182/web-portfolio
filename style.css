@@ -1,0 +1,21 @@
+body{
+    font-family: 'Odibee Sans';
+}
+h1{
+    font-size: 40px;
+}
+.name-highlight{
+    color: rgb(255, 153, 0);
+}
+.ttc{
+    color: rgb(166, 255, 0);
+}
+.half-width{
+    width: 40%;
+    float:left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
